@@ -1,3 +1,5 @@
+python --version
+python -m pip install seaborn
 import seaborn as sns
 import streamlit as st
 import numpy as np
